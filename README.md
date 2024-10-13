@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## 🌟 About Me
-**👩‍💻 Kabita Islam**
+**#👩‍💻 Kabita Islam**
 
 **🎓 Recent B.Sc. Graduate in Computer Science and Engineering .** <br/>
 **🚀 Junior Software Engineer at TechnoNext Software Limited.** <br/>
@@ -12,23 +12,25 @@
 <br/>
 
 **💡 Skills:** <br>
-   **Languages**: PHP, Ruby .<br/>
-    **Frameworks**: Laravel, Ruby on Rails .<br/>
-    **Interests**: Problem Solving, Software Development, Competitive Programming .
+<ul>
+<li>**Languages**: PHP, Ruby .</li>
+<li>**Frameworks**: Laravel, Ruby on Rails .</li>
+<li>**Interests**: Problem Solving, Software Development, Competitive Programming .</li>
+</ul>
 
-**🎨 Hobbies:**
+**#🎨 Hobbies:**<br/>
 😴 I love sleeping!<br/>
 
-**📚** If I get time after my nap 😴,I enjoy reading books.I’m an avid reader with a passion for crime and suspense thrillers. I love unraveling mysteries and getting lost in gripping plots that keep me on the edge of my seat.<br/>
+**📚** If I get time after my nap 😴,I enjoy reading books.I’m an avid reader with a passion for crime and suspense thrillers. I love unraveling mysteries and getting lost in gripping plots that keep me on the edge of my seat.<br/><br/>
 **My Top Picks:**
-
+<ul>
 <li>Psychological Thrillers</li>
 <li>Classic Whodunits</li>
 <li>Fast-paced Suspense</li>
-
+</ul>
 If anyone have any recommendations, feel free to reach out! 💁‍♀️ <br/>
 
-**🚫 Bad Habits**
+**#🚫 Bad Habits**<br/>
 😴 I can be quite lazy—sometimes too lazy!<br>
 This tendency often leads me to struggle with completing important tasks. I’m working on finding a better balance between relaxation and productivity! 🫨<br>
 ## 🏅Achievements
