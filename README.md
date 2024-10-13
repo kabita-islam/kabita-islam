@@ -2,8 +2,8 @@
 ## 🌟 About Me
 **Kabita Islam**
 
-**🚀 Junior Software Engineer at TechnoNext Software Limited.**
-**🎓 Recent B.Sc. Graduate in Computer Science and Engineering .** 
+**🚀 Junior Software Engineer at TechnoNext Software Limited.**##
+**🎓 Recent B.Sc. Graduate in Computer Science and Engineering .** ##
 
 
 Hello! I'm Kabita, a passionate software engineer with a strong foundation in programming and problem-solving. My journey in coding began with numerous online and offline programming contests, where I developed a keen interest in tackling complex challenges. 
