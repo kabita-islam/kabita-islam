@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
  Kabita Islam
 
 🚀 Junior Software Engineer at TechnoNext Software Limited.
@@ -8,4 +7,3 @@
 
 
 
--->
