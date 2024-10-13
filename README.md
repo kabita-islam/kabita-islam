@@ -11,16 +11,16 @@
 **📍**Currently, I work with PHP and Laravel, building dynamic web applications. I'm also diving into Ruby on Rails to expand my skill set and meet the exciting challenges at work. I aspire to become a well-rounded developer, which is why I'm focused on mastering PHP, Laravel, and Vue.js so that I can independently build complete projects.
 <br/>
 
-**💡 Skills** 
+**💡 Skills:** 
    **Languages**: PHP, Ruby .<br/>
     **Frameworks**: Laravel, Ruby on Rails .<br/>
     **Interests**: Problem Solving, Software Development, Competitive Programming .
 
-**🎨 Hobbies**<br>
+**🎨 Hobbies:**
 😴 I love sleeping!<br/>
 
 **📚** If I get time after my nap 😴,I enjoy reading books.I’m an avid reader with a passion for crime and suspense thrillers. I love unraveling mysteries and getting lost in gripping plots that keep me on the edge of my seat.<br/>
-**My Top Picks::**
+**My Top Picks:**
 <ul>
 <li>Psychological Thrillers</li>
 <li>Classic Whodunits</li>
