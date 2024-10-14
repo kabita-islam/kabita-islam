@@ -12,7 +12,7 @@
 <br/>
 
 **💡 Skills:** <br>
-<img src="![URL_TO_PHP_ICON](https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png)" alt="PHP" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="PHP" width="40" height="40"/>
 <!-- <ul>
 <li> https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png</li>
 <li>Languages : PHP, Ruby .</li>
