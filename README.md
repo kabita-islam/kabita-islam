@@ -30,9 +30,11 @@
 </ul>
 If anyone have any recommendations, feel free to reach out! 💁‍♀️ <br/>
 
-### **🚫 Bad Habits**<br/>
+
+<!-- ### **🚫 Bad Habits**<br/>
 😴 I can be quite lazy—sometimes too lazy!<br>
-This tendency often leads me to struggle with completing important tasks. I’m working on finding a better balance between relaxation and productivity! 🫨<br>
+This tendency often leads me to struggle with completing important tasks. I’m working on finding a better balance between relaxation and productivity! 🫨<br>  -->
+
 ## 🏅Achievements
 <ul>
 <li>2nd at MBSTU Inter University Programming Contest in
