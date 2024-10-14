@@ -13,6 +13,7 @@
 
 **💡 Skills:** <br>
 <ul>
+<li> https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png</li>
 <li>Languages : PHP, Ruby .</li>
 <li>Frameworks : Laravel, Ruby on Rails .</li>
 <li>Interests : Problem Solving, Software Development, Competitive Programming .</li>
