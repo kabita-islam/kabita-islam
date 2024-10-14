@@ -11,8 +11,12 @@
 **📍**Currently, I work with PHP and Laravel, building dynamic web applications. I'm also diving into Ruby on Rails to expand my skill set and meet the exciting challenges at work. I aspire to become a well-rounded developer, which is why I'm focused on mastering PHP, Laravel, and Vue.js so that I can independently build complete projects.
 <br/>
 
-**💡 Skills:** <br>
+**💡 Languages and Tools** <br>
 <img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="PHP" width="40" height="40"/>
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png" alt="Ruby on Rails" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" width="40" height="40"/>
 <!-- <ul>
 <li> https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png</li>
 <li>Languages : PHP, Ruby .</li>
