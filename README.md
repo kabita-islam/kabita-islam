@@ -12,7 +12,14 @@
 <br/>
 
 ### **💡 Languages and Tools** <br>
-<img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="PHP" width="40" height="40"/> <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png" alt="Ruby on Rails" width="35" height="35"/> <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" width="35" height="35"/>
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="PHP">
+</div>
+<div style="display: inline-block;">
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Ruby on Rails">
+</div>
+
+<img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="PHP" width="40" height="40"/> <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png" alt="Ruby on Rails" width="35" height="35"/><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" width="35" height="35"/>
 <!-- <ul>
 <li> https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png</li>
 <li>Languages : PHP, Ruby .</li>
