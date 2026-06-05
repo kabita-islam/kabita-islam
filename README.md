@@ -21,7 +21,6 @@
 </ul> -->
 
 ### **🎨 Hobbies**<br/>
-😴 I love sleeping!!<br/>
 
 **📚** If I get time after my nap 😴,I enjoy reading books.I’m an avid reader with a passion for crime and suspense thrillers. I love unraveling mysteries and getting lost in gripping plots that keep me on the edge of my seat.<br/><br/>
 **My Top Picks:**
